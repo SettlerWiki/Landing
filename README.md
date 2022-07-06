@@ -42,6 +42,10 @@ If you have any questions or suggestions about this documentation, please contac
 [Settlers United EN](https://app.gitbook.com/s/BennDdOkzHBDJzFqNKiB/)
 {% endcontent-ref %}
 
+{% content-ref url="https://app.gitbook.com/s/6R5ZmzhmecbwQPrZHa0D/" %}
+[Settler IV Wiki EN](https://app.gitbook.com/s/6R5ZmzhmecbwQPrZHa0D/)
+{% endcontent-ref %}
+
 {% content-ref url="https://app.gitbook.com/s/nUcKbIMFdD6Js8zidagz/" %}
 [S4: WarriorsLib EN](https://app.gitbook.com/s/nUcKbIMFdD6Js8zidagz/)
 {% endcontent-ref %}
