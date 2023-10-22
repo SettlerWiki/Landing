@@ -5,7 +5,7 @@
 Willkommen in diesem kleinen neuen Siedler Wiki\
 Unser Ziel ist es so viele Informationen wie Möglich rund um Siedler III, Siedler IV und Settlers-United bereit zu stellen. Dies ist nur möglich durch die zahlreiche Kooperation zwischen diversen Leute in der Community, welchen wir selbstverständlich unseren Dank aussprechen wollen!&#x20;
 
-Ihr seit alle herzlich eingeladen euch an dieser Dokumentation zu beteiligen, wir nutzen hierfür verschiedenste GitHub Repositorys wo alle Informationen im praktischen [Markdown Format](https://www.markdownguide.org/) hinterlegt sind.&#x20;
+Ihr seid alle herzlich eingeladen euch an dieser Dokumentation zu beteiligen, wir nutzen hierfür verschiedenste GitHub Repositorys wo alle Informationen im praktischen [Markdown Format](https://www.markdownguide.org/) hinterlegt sind.&#x20;
 
 Bei Fragen oder Anregungen zu dieser Dokumentation kommt gerne im Discord auf mich (Gemil#7491) zu.
 
